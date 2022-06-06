@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bug_id> 111 </bug_id>
+<Title> Send Email button return options not related to sending Email </Title>
+ 
+<Severity> Minor </Severity>
+<Priority> Low </Priority>
+<Environment> Xiaomi Redmi Note 7 Pro Android 11 </Environment>
+    
+<Precondition> Installed the app on the device </Precondition>
+     <STR>  
+       <step_1> Open the APP </step_1>
+       <step_2>Tap “Send Email” button </step_2>
+    </STR>
+        
+<AR> App return different links not related to sending email </AR>
+<ER> App return  links related to sending email </ER>
